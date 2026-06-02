@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-2: Implementation of Exact Inference Method of Bayesian Network</H1>
 
-### Name: 
-### Register Number:
+### Name: Vasanth kumar V
+### Register Number: 2305002027
 
 ## Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
@@ -75,6 +75,31 @@ print(result2)
 
 ## Output :
 
+### Result-1:
+
+```
++-------------+-----------------+
+| Burglary    |   phi(Burglary) |
++=============+=================+
+| Burglary(0) |          0.9949 |
++-------------+-----------------+
+| Burglary(1) |          0.0051 |
++-------------+-----------------+
+
+```
+
+### Result-2:
+
+```
++-------------+-----------------+
+| Burglary    |   phi(Burglary) |
++=============+=================+
+| Burglary(0) |          0.9949 |
++-------------+-----------------+
+| Burglary(1) |          0.0051 |
++-------------+-----------------+
+
+```
 
 ---
 
